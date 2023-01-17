@@ -32,19 +32,19 @@ const Experience = () => {
     {
       id: 4,
       src: reactImage,
-      title: "React",
+      title: "PHP",
       style: "shadow-blue-600",
     },
     {
       id: 5,
       src: tailwind,
-      title: "Tailwind",
+      title: "Python",
       style: "shadow-sky-400",
     },
     {
       id: 6,
       src: nextjs,
-      title: "Next JS",
+      title: "Dockers",
       style: "shadow-white",
     },
     {

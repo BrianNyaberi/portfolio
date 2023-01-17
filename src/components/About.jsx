@@ -14,23 +14,23 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          As a full-stack developer, I design and create websites and applications for various platforms. 
+          Tasks include:
+          <ul>Develop and maintain web services and interfaces</ul>
+          <ul>Contribute to front-end and back-end development processes</ul>
+          <ul>Build new product features or APIs</ul>
+          <ul>Perform tests, troubleshoot software, and fix bugs</ul>
+          <ul>Collaborate with other departments on projects and sprints</ul>
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        In a world where full-stack development is large and competitive, I take pride in learning and using 
+        the many new and evolving technologies that continually push the limits of what a full-stack developer 
+        can create. Staying on top of cutting-edge technology and techniques in the full-stack development 
+        field is one of the many exciting aspects of working in this role.
+
         </p>
       </div>
     </div>
